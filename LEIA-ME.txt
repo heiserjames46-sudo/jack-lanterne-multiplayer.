@@ -1,0 +1,7 @@
+JACK LANTERNE: REINO DAS ABÓBORAS | SONS ORIGINAIS ATIVOS
+
+Este pacote contém o jogo atualizado e os 31 arquivos OGG selecionados do pacote Kenney. A função de som agora toca os arquivos reais; os tons sintetizados ficam apenas como fallback quando um arquivo não pode ser tocado.
+
+PUBLICAÇÃO: envie o conteúdo desta pasta para a raiz do seu site (index.html, sw.js e pasta audio inteira). Não envie só index.html, porque os arquivos OGG precisam estar em audio/.
+
+TESTE: abra o jogo e clique uma vez na tela para liberar áudio no navegador. Confira se a opção Som está ligada. O modo offline do service worker funciona em hospedagem HTTPS após o primeiro carregamento.
